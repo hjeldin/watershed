@@ -1,4 +1,5 @@
-watershed
+Watershed
 =========
 
-Watershed segmentation for whitematter extraction.
+Watershed segmentation for white matter extraction.
+
